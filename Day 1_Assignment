@@ -1,0 +1,11 @@
+Q1 What is your understanding of Blockchain?
+A1 Blockchain is a chain which contains different blocks and each block contain data whihc is distributed and encrypted. And the data stored is verifiable, unchangeable,
+   tamperproof & Immutable
+Q2 What is the core problem blockchain is trying to solve?
+A2 Data Loss, Data Security, Data Corruption
+Q3 What are the few features that Blockchain will give you?
+A3 Immutability, Decentralized technology, Enhanced Security, Distributed ledger
+Q4 What all things a Block contains?
+A4 Block Number, Transaction record, Previous Block Signature, Mining key
+Q5 How is the verifiability of Blockchain is been attained ?
+A5 Due to its distributed database in which data is tamper proof.
